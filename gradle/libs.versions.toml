@@ -3,7 +3,7 @@ precompose = "1.6.2"
 spotless = "7.0.0.BETA4"
 central = "1.2.5"
 dokka = "2.0.0"
-compose = "1.8.0-alpha01"
+compose = "1.8.0-dev1920"
 kotlin = "2.1.0"
 
 [libraries]
